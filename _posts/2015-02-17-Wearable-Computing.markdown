@@ -4,9 +4,55 @@ title: "Wearable"
 date: 2015-02-17 12:00:00
 categories:
 ---
-#### Vorlesung
+#### Wearable
 
 - siehe Foliensatz
+- eyes free
+- hands free
+
+## Use-cases
+
+# Realität
+
+- Datenerfassung
+- Handbücher
+- Ersetzung von Mitarbeitern
+
+# 2
+
+- pick-by-vision
+- learn-by-vision
+- inspect-by-vision
+
+## Augmented Reality
+
+- location-based
+- image-based
+
+## Ansätze
+
+1. Industrie: Computer als Werkzeug
+2. Consumer: Erweiterung des menschlichen Körpers
+
+## Mobile Computer
+
+- mobil benutzen
+- drahtlose Verbindung
+
+## Probleme
+
+- Display
+- Akku
+
+#### Entwicklung
+
+Event-Pool:
+
+- Kontext (Kamera)
+- location
+- geste
+- GUI-Aktion
+- Sprachbefehl
 
 #### TODO
 
